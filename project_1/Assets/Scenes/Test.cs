@@ -8,6 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         Console.WriteLine("Bananananana");
+        //comment
     }
 
     // Update is called once per frame
