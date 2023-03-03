@@ -9,9 +9,13 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Console.WriteLine("Bananananana");
+
+        //Console.WriteLine("Bananananana");
         //comment
         //woahhhhhh
+        //sorry but console doesnt really exist, system isnt imported in full e.g not in current context
+        //use this instead
+        Debug.Log("Bananananana");
     }
 
     // Update is called once per frame
